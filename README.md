@@ -3,13 +3,7 @@
 This project builds a machine learning model to predict whether a passenger survived the Titanic disaster.
 
 ## 📁 Project Structure
-├── 01_eda.ipynb # Exploratory Data Analysis 
-├── 02_preprocessing.ipynb # Data cleaning & feature engineering 
-├── 03_model_building.ipynb # Model selection and training 
-├── 04_model_performance.ipynb # Evaluation metrics 
-├── requirements.txt 
-├── tested_preprocessed.csv # Preprocessed dataset for building machine learning models
-├── README.md
+├── 01_eda.ipynb # Exploratory Data Analysis ├── 02_preprocessing.ipynb # Data cleaning & feature engineering ├── 03_model_building.ipynb # Model selection and training ├── 04_model_performance.ipynb # Evaluation metrics ├── requirements.txt ├── tested_preprocessed.csv # Preprocessed dataset for building machine learning models├── README.md
 
 ## 📊 Dataset
 
